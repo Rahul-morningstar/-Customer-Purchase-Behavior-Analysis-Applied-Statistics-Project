@@ -232,7 +232,9 @@ All plots are saved to the working directory after running the notebook:
 FileTaskDescriptiontask1_demographics.pngTask 1Age, Education, Marital Status distributionstask2_boxplots.pngTask 2Box plots for outlier detectiontask2_spend_distributions.pngTask 2Spending histograms by product categorytask3_binomial.pngTask 3Binomial PMF — campaign response modeltask3_normal.pngTask 3Normal distribution fit for Income & Spendingtask3_qq.pngTask 3Q-Q plots for normality checktask4_scatter.pngTask 4Income vs Spending, Spending vs Childrentask4_elbow.pngTask 4Elbow curve for K-Means cluster selectiontask4_segments.pngTask 4Customer segment scatter + response ratestask4_group_spending.pngTask 4Spending by Education & Marital Statustask5_dashboard.pngTask 5Channel effectiveness dashboardtask5_radar.pngTask 5Radar chart — Responders vs Non-Respondersbonus_lln.pngBonusLaw of Large Numbers coin flip simulation
 
 👤 Author
-Rahul
+    Rahul
+
 Applied Statistics 
+https://github.com/Rahul-morningstar/
 
 If you find this project useful, feel free to ⭐ star the repository!
